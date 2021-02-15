@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hi, this is RickChan 👋
 
+I am a frontend developer from Hangzhou,China.
+- 🔭 I’m currently working on DaSouChe Inc.
+- 💻 My major work currently is developing BI products.
+- 🌱 I’m currently learning Rxjs & Go & Web Visualization Dev.
+- 📫 How to reach me: *654015195@qq.com* or *zhouri1994@gmail.com*.
+- 📒 I regulary write articles on my issue blog: https://github.com/ILovePing/ILovePing.github.io/issues.
+
+- Languages and Toolas: javascript/Typescript/React/VueJs/nodeJs/Webpack/docker/graphql/vscode
 <!--
 **ILovePing/ILovePing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
