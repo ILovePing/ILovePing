@@ -7,7 +7,7 @@ I am a frontend developer from Hangzhou,China.
 - 📫 How to reach me: *654015195@qq.com* or *zhouri1994@gmail.com*.
 - 📒 I regulary write articles on my issue blog: https://github.com/ILovePing/ILovePing.github.io/issues.
 
-- Languages and Toolas: javascript/Typescript/React/VueJs/nodeJs/Webpack/docker/graphql/vscode
+- Languages and Tools: Javascript/Typescript/React/VueJs/nodeJs/Webpack/docker/graphql/vscode
 <!--
 **ILovePing/ILovePing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
