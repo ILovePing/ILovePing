@@ -3,7 +3,7 @@
 I am a frontend developer from Hangzhou,China.
 - 🔭 I’m currently working on Alibaba Inc.
 - 💻 I used to develop BI products for a couple years, Currently my major work is about making page building platform more efficiently.
-- 🌱 I’m currently learning ~~Big Data Related Products & Web Visualization Dev.~~ webIde & fass.
+- 🌱 I’m currently learning ~~Big Data Related Products & Web Visualization Dev. webIde & fass.~~ Threejs & fass.
 - 📫 How to reach me: *654015195@qq.com* or *zhouri1994@gmail.com*.
 - 📒 I regulary write articles on my issue blog: https://github.com/ILovePing/ILovePing.github.io/issues.
 
